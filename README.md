@@ -13,3 +13,4 @@ Este es mi repositorio para clase de **métodos y técnicas de la UEMC**
 
 ### Un enlace. Y otro
 
+Acepto todo tipo de propuesta de mejora en mi repositorio ..... blablabla  blablabla  blablabla   blablabla
